@@ -1,0 +1,4 @@
+#Fri Feb 03 06:11:51 BRT 2023
+base.0=/Users/marcio/StudioProjects/clean_dart/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
